@@ -1,9 +1,9 @@
 # GitLearning
 ## General
 This repository is used for Git practice. The repository contains examples for:
-Git basic usage
-Branching
-Conflicts
+•	Git basic usage
+•	Branching
+•	Conflicts
 ###### Addresses
 
 ## Repository address
